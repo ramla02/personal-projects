@@ -1,0 +1,25 @@
+body {
+    background-image: url("https://i.pinimg.com/736x/77/10/b6/7710b61ab019f0540d0386da2b6f9156.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+p {
+    margin: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.business-card {
+    width: 300px;
+    padding: 20px;
+    margin: 100px auto;
+    text-align: center;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIeyjWv43o7XyJH-2U1Q0HQHYXT60ODNg3g&s");
+}
+
+.profile-image {
+    max-width: 100%;
+}
