@@ -11,7 +11,9 @@ p {
 a {
     text-decoration: none;
 }
-
+a:hover {
+    background-color: gray;
+}
 .business-card {
     width: 300px;
     padding: 20px;
